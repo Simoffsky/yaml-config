@@ -1,4 +1,4 @@
-module yamlconf
+module github.com/Simoffsky/yaml-config
 
 go 1.21.0
 
